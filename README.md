@@ -7,6 +7,8 @@ nav_order: 1
 ![MediaPipe](https://mediapipe.dev/images/mediapipe_small.png)
 
 --------------------------------------------------------------------------------
+### Fork of mediapipe based on [solution of Aniket Ray](https://github.com/aniket-ray/mediapipe/blob/ObjectDetectionSolution/mediapipe/python/solutions/object_detection.py) just moved in fresh version library.
+
 
 ## Live ML anywhere
 
